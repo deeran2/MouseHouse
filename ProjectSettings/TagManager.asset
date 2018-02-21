@@ -7,6 +7,11 @@ TagManager:
   - Enemy
   - Goal
   - Token
+  - Poison
+  - Gas
+  - mouseTrap
+  - spikes
+  - LevelButton
   layers:
   - Default
   - TransparentFX

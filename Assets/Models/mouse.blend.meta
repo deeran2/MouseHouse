@@ -1,6 +1,6 @@
 fileFormatVersion: 2
-guid: 7859bcb6839fb4eb39d0f7d821cef970
-timeCreated: 1518804431
+guid: f774e83eb162c4db6990619d45368421
+timeCreated: 1519224512
 licenseType: Free
 ModelImporter:
   serializedVersion: 22
@@ -90,6 +90,7 @@ ModelImporter:
     7400000: Walk
     7400002: ArmatureAction
     7400004: Idle
+    7400006: Death
     9500000: //RootNode
     13700000: Cylinder
   externalObjects: {}
@@ -151,7 +152,7 @@ ModelImporter:
       name: ArmatureAction
       takeName: ArmatureAction
       firstFrame: 0
-      lastFrame: 219
+      lastFrame: 309
       wrapMode: 0
       orientationOffsetY: 0
       level: 0
@@ -187,6 +188,34 @@ ModelImporter:
       loop: 0
       hasAdditiveReferencePose: 0
       loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Death
+      takeName: Default Take
+      firstFrame: 300
+      lastFrame: 321
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
       loopBlend: 0
       loopBlendOrientation: 0
       loopBlendPositionY: 0
@@ -244,7 +273,7 @@ ModelImporter:
     armStretch: 0.05
     legStretch: 0.05
     feetSpacing: 0
-    rootMotionBoneName: Armature
+    rootMotionBoneName: 
     rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
     hasTranslationDoF: 0
     hasExtraRoot: 0

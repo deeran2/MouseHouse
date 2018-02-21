@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: fdee0383d01964a3cbb31c1756f44a8f
+timeCreated: 1519140410
+licenseType: Free
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Cheese and Mouse
+  fontNames:
+  - Cheese and Mouse
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

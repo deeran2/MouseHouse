@@ -7,16 +7,19 @@ EditorBuildSettings:
   m_Scenes:
   - enabled: 1
     path: Assets/Levels/MainMenu.unity
-    guid: e8bf85815131d4712bb68ef534d27f4d
+    guid: d8d9187aeee2847c38a1e3a9d6617896
   - enabled: 1
-    path: Assets/Levels/WorldSelect.unity
-    guid: c8bb82f13be694b4592cf477e97907d6
+    path: Assets/Levels/LevelSelect.unity
+    guid: fe2138874811247d6973f313aa5c867d
   - enabled: 1
     path: Assets/Levels/Level1.unity
-    guid: d5869d8cd63114684a746d8229f68070
+    guid: 20e8acb5dfd0945448ad9a4bf24495db
   - enabled: 1
     path: Assets/Levels/Level2.unity
-    guid: 0595daab5f0fc40ad94eea49a8c9f3b6
+    guid: 897cc5e8a9aea49619e1c791a3cbb6e3
   - enabled: 1
     path: Assets/Levels/Level3.unity
-    guid: a2cfc68a6abfb43d4ab093ab06711c66
+    guid: 5a618034737d949dfb4d3f6b9888828d
+  - enabled: 1
+    path: Assets/Levels/Epilogue.unity
+    guid: 16690e90666d44f58b9404f1e6cfb647

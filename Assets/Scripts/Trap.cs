@@ -4,13 +4,14 @@ using UnityEngine;
 
 public class Trap : MonoBehaviour {
 
-	public float delayTime;
 
 	// Use this for initialization
 	void Start () {
 		StartCoroutine (Go ());
 	}
-	
+
+	//Spikes will pop out every 3 seconds
+
 	IEnumerator Go(){
 
 		while(true){
